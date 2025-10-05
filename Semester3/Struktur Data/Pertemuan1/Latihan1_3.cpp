@@ -24,3 +24,4 @@ int main()
 		{cout << "Grade: F" << endl << "Belajar lagi!!!";}
 }
 
+
