@@ -17,3 +17,4 @@ int main()
     	cout << "B = " << B << endl;
 }
 
+
