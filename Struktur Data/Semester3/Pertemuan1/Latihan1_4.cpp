@@ -18,3 +18,4 @@ int main()
     	cout << "\nJarak kuadrat antara A dan B = " << jaraknya << endl;
 }
 
+
