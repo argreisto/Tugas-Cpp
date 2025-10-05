@@ -7,18 +7,19 @@ Setiap tugas disusun berdasarkan urutan pertemuan dan mengikuti topik yang terca
 
 ### 1. *Struktur Data*
 Berisi implementasi berbagai struktur data menggunakan bahasa C++.
-|  | Topik | Deskripsi |
-|----------------|-------|------------|
-|   Pertemuan 1        | Tipe Data & Hierarki | Tipe data dasar C++ serta perbedaan struktur data linear dan non-linear |
-|       Pertemuan 2        | Array & Pointer       | Array satu dan multidimensi serta konsep dasar pointer |
-|       Pertemuan 3        | Struktur / Record     | Penggunaan struct untuk menyimpan data dengan tipe berbeda |
-|       Pertemuan 4        | Single Stack         | Konsep tumpukan (LIFO) dan operasi dasar push–pop |
-|       Pertemuan 5        | Double Stack         | Implementasi dua stack dalam satu array |
-|       Pertemuan 6        |Linear Queue|	Antrian (FIFO) menggunakan array, operasi insert dan delete|
-|       Pertemuan 7        |Circular Queue	|Antrian melingkar yang efisien dalam penggunaan memori|
-|       Pertemuan 8        |Double Ended Queue (Deque)	| Antrian dengan akses dua arah (front dan rear)|
-|       Pertemuan 9        | Linear Singly Linked List|	Node saling terhubung satu arah menggunakan pointer
-|       Pertemuan 10       |Aplikasi Linked List pada Stack|	Implementasi stack berbasis linked list
+  
+| Pertemuan | Topik | Deskripsi |
+|:---------:|-------|-----------|
+| 1 | Tipe Data & Hirarki | Mengenal tipe data dasar C++ serta perbedaan struktur data linear dan non-linear |
+| 2 | Array & Pointer | Pengenalan array satu dan multidimensi serta konsep dasar pointer |
+| 3 | Struktur / Record | Penggunaan struct untuk menyimpan data dengan tipe berbeda |
+| 4 | Single Stack | Konsep tumpukan (LIFO) dan operasi dasar push–pop |
+| 5 | Double Stack | Implementasi dua stack dalam satu array |
+| 6 |Linear Queue	| Antrian (FIFO) menggunakan array, operasi insert dan delete |
+| 7 | Circular Queue | Antrian melingkar yang efisien dalam penggunaan memori |
+| 8 | Double Ended Queue | (Deque)	Antrian dengan akses dua arah (front dan rear) |
+| 9 | Linear Singly Linked List |	Node saling terhubung satu arah menggunakan pointer |
+| 10 | Aplikasi Linked List pada Stack | Implementasi stack berbasis linked list |
 
 ---
 
