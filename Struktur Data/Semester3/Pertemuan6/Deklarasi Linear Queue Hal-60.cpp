@@ -16,3 +16,4 @@ class Queue
  void insertQueue(int item);
  int deleteQueue(int *item);
 };
+
