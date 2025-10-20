@@ -16,3 +16,4 @@ class DQueue
  void insertDQueueAtFront(int item);
  int deleteDQueueAtRear(int *item);
 };
+
