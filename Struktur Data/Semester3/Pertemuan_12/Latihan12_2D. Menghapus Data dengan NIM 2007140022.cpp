@@ -123,3 +123,4 @@ void hapusData(string targetNIM) {
     cout << "\nProgram selesai." << endl;
 }
 
+
