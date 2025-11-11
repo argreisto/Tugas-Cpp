@@ -26,3 +26,4 @@ int main()
     cout << "Nilai   : " << mhs.nilai << endl;
 }
 
+
