@@ -45,7 +45,7 @@ int main()
     cout << "Kelas : 03TPLP023\n" << endl;
 
     cout << "=== PROGRAM TRAVERSAL POHON MENGGUNAKAN PRE-ORDER, IN-ORDER DAN POSTORDER ===\n\n";
-    for (int i = 0; i < 60; i++) cout << "=";
+    for (int i = 0; i < 80; i++) cout << "=";
     cout << "\n" << endl;
 
     // Membuat node
@@ -86,4 +86,5 @@ int main()
     cout << "\n";
     return 0;
 }
+
 
