@@ -34,11 +34,8 @@ int binarySearch(int arr[], int n, int cari) {
 }
 
 // ======================================== MAIN ========================================
-int main() {
-
-    // 15 data sudah ditentukan dan terurut
-    int data[15] = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30,
-                    33, 36, 39, 42, 45};
+int main() 
+{   int data[15] = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45};
     int n = 15;
 
     cout << "Data awal (15 data):\n";
@@ -71,3 +68,4 @@ int main() {
 
     return 0;
 }
+
